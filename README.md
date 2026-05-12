@@ -21,11 +21,6 @@
 - 💇 Salon Website
 - 💻 Laptop Repair Shop
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheetal-ux&show_icons=true&theme=tokyonight)
 
 ---
 
