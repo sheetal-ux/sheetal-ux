@@ -12,7 +12,6 @@
 - CSS
 - JavaScript
 - node js
-- 
 - Git & GitHub
 
 ---
