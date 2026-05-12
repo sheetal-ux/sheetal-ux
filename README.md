@@ -20,6 +20,7 @@
 - 🍔 Zomato Clone
 - 💇 Salon Website
 - 💻 Laptop Repair Shop
+- Events planing Agency
 
 
 ---
