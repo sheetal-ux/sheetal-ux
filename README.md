@@ -21,14 +21,6 @@
 - 💇 Salon Website
 - 💻 Laptop Repair Shop
 - Events planing Agency
-
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sheetal-ux&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
